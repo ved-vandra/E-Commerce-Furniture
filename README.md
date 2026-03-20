@@ -51,7 +51,7 @@ The goal is to find useful insights that help improve business decisions.
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Dashboard](images/dashboard.png)
+![E-Commerce Dashboard](dashboard.png)
 
 ---
 
